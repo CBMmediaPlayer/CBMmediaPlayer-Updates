@@ -1,7 +1,7 @@
 # Changelog
 
 All notable changes to CBM Media Player are listed here.
-Format: **Version — Date — What changed**
+Full details at [cbmmediaplayer.com](https://cbmmediaplayer.com)
 
 ---
 

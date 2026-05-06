@@ -6,6 +6,8 @@ A powerful macOS media player supporting every format. One player for everything
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
 
+🌐 **[cbmmediaplayer.com](https://cbmmediaplayer.com)**
+
 ---
 
 ## Features
@@ -38,4 +40,5 @@ See [CHANGELOG.md](CHANGELOG.md) for full version history.
 
 ## Support
 
+🌐 [cbmmediaplayer.com](https://cbmmediaplayer.com)
 📧 contact@cbmmediaplayer.com
