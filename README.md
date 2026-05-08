@@ -1,14 +1,33 @@
-# CBM Media Player
+# 🎬 CBM Media Player Pro
 
 A modern macOS media player focused on premium playback quality, immersive fullscreen viewing, advanced subtitle handling, and unified casting.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-14%2B-black?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/Apple%20Silicon-Supported-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intel%20Macs-Supported-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SwiftUI-Powered-orange?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ Why CBM?
+
+CBM Media Player Pro combines the power of professional playback engines with a modern macOS-native design.
+
+🎥 Smooth playback for massive REMUX files
+🧠 Advanced subtitle handling
+📺 Unified casting support
+🌌 Cinematic fullscreen experience
+🎨 Dynamic modern UI system
 
 CBM Media Player Pro is designed for users who want a powerful local video player experience similar to professional players like VLC, IINA, Infuse, and Elmedia — while maintaining a modern native macOS UI.
 
 ---
 
-# Features
+# 🚀 Features
 
-## Premium Playback Engine
+## 🎞️ Premium Playback Engine
 
 * High-performance local video playback
 * Support for large media files (including 50GB–70GB+ REMUX files)
@@ -23,7 +42,7 @@ CBM Media Player Pro is designed for users who want a powerful local video playe
 
 ---
 
-## Modern Fullscreen Experience
+## 🌌 Modern Fullscreen Experience
 
 CBM includes a custom immersive fullscreen system inspired by professional media players.
 
@@ -41,7 +60,7 @@ CBM includes a custom immersive fullscreen system inspired by professional media
 
 ---
 
-## Subtitle System
+## 💬 Subtitle System
 
 Advanced subtitle engine optimized for large files.
 
@@ -73,7 +92,7 @@ CBM includes subtitle optimizations for very large REMUX files:
 
 ---
 
-## Audio Features
+## 🔊 Audio Features
 
 * Multiple audio track selection
 * Language switching
@@ -84,7 +103,7 @@ CBM includes subtitle optimizations for very large REMUX files:
 
 ---
 
-## Unified Casting Support
+## 📡 Unified Casting Support
 
 CBM Media Player Pro supports multiple streaming and casting technologies.
 
@@ -107,7 +126,7 @@ CBM Media Player Pro supports multiple streaming and casting technologies.
 
 ---
 
-## AirPlay Streaming
+## 🍎 AirPlay Streaming
 
 Custom AirPlay streaming system optimized for large local media playback.
 
@@ -124,7 +143,7 @@ Custom AirPlay streaming system optimized for large local media playback.
 
 ---
 
-## DLNA Support
+## 📺 DLNA Support
 
 * Device discovery
 * DLNA playback
@@ -134,7 +153,7 @@ Custom AirPlay streaming system optimized for large local media playback.
 
 ---
 
-## Media Library
+## 📚 Media Library
 
 Modern local media library experience.
 
@@ -152,7 +171,7 @@ Modern local media library experience.
 
 ---
 
-## Modern UI System
+## 🎨 Modern UI System
 
 CBM includes a fully custom themed interface system.
 
@@ -172,7 +191,7 @@ CBM includes a fully custom themed interface system.
 
 ---
 
-## Help & Utility Panels
+## 🪟 Help & Utility Panels
 
 Custom themed utility panels:
 
@@ -195,7 +214,7 @@ Custom themed utility panels:
 
 ---
 
-## Advanced Playback Controls
+## 🎮 Advanced Playback Controls
 
 ### Controls
 
@@ -220,7 +239,7 @@ Custom themed utility panels:
 
 ---
 
-## Performance Optimizations
+## ⚡ Performance Optimizations
 
 ### Large File Handling
 
@@ -239,7 +258,7 @@ Custom themed utility panels:
 
 ---
 
-# Supported Formats
+# 📦 Supported Formats
 
 ## Video
 
@@ -276,7 +295,7 @@ Custom themed utility panels:
 
 ---
 
-# Planned Features
+# 🧠 Planned Features
 
 ## Upcoming
 
@@ -295,7 +314,7 @@ Custom themed utility panels:
 
 ---
 
-# Architecture Philosophy
+# 🏗️ Architecture Philosophy
 
 CBM Media Player Pro is being developed with a modular architecture approach.
 
@@ -311,15 +330,17 @@ CBM Media Player Pro is being developed with a modular architecture approach.
 
 ---
 
-# Platform
+# 💻 Platform
 
 Currently supported:
 
-* macOS
+* 🍎 macOS 14+
+* ✅ Apple Silicon (M1/M2/M3/M4)
+* ✅ Intel Macs
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 * Swift
 * SwiftUI
@@ -330,11 +351,13 @@ Currently supported:
 
 ---
 
-# Installation
+# 📥 Installation
 
 ## Requirements
 
 * macOS 14+
+* Apple Silicon or Intel Mac
+* Xcode 15+
 
 ## Build
 
@@ -348,13 +371,13 @@ Build using Xcode.
 
 ---
 
-# Screenshots
+# 📸 Screenshots
 
 *Add screenshots here.*
 
 ---
 
-# Development Status
+# 🚧 Development Status
 
 CBM Media Player Pro is actively under development.
 
@@ -369,18 +392,18 @@ Current focus:
 
 ---
 
-# Contributing
+# 🤝 Contributing
 
 Contributions, feedback, and feature suggestions are welcome.
 
 ---
 
-# License
+# 📄 License
 
 License information coming soon.
 
 ---
 
-# Disclaimer
+# ⚠️ Disclaimer
 
 CBM Media Player Pro is an independent project and is not affiliated with VLC, IINA, Netflix, Apple, or other referenced products/services.
