@@ -1,7 +1,7 @@
 # 🎬 CBM Media Player
 
 ![macOS](https://img.shields.io/badge/macOS-14.6%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
-![4K HDR](https://img.shields.io/badge/Playback-4K%20HDR%20+%208K-f6c431?style=for-the-badge)
+![4K HDR](https://img.shields.io/badge/Playback-4K%20+%208K-f6c431?style=for-the-badge)
 ![Subtitles](https://img.shields.io/badge/Advanced-Subtitles-2f80ed?style=for-the-badge)
 ![Library](https://img.shields.io/badge/Smart-Library-20c997?style=for-the-badge)
 
@@ -11,7 +11,7 @@
 
 - 🎞️ Plays many popular video and audio formats
 - 🖥️ Clean fullscreen movie experience
-- ⚡ Smooth 4K/HDR playback on supported Macs
+- ⚡ Smooth 4K/8K playback on supported Macs
 - 💬 Advanced subtitle controls with quick `CC` toggle
 - 📚 Beautiful library with thumbnails, favorites, and continue watching
 - 🔎 Seek bar preview thumbnails
