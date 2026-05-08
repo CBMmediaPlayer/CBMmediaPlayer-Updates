@@ -1,7 +1,7 @@
 # 🎬 CBM Media Player
 
 ![macOS](https://img.shields.io/badge/macOS-14.6%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
-![4K HDR](https://img.shields.io/badge/Playback-4K%20HDR-f6c431?style=for-the-badge)
+![4K HDR + 8K](https://img.shields.io/badge/Playback-4K%20HDR-f6c431?style=for-the-badge)
 ![Subtitles](https://img.shields.io/badge/Subtitles-Advanced-2f80ed?style=for-the-badge)
 ![Library](https://img.shields.io/badge/Library-Smart-20c997?style=for-the-badge)
 
