@@ -11,399 +11,252 @@ A modern macOS media player focused on premium playback quality, immersive fulls
 
 ---
 
-## ✨ Why CBM?
-
-CBM Media Player Pro combines the power of professional playback engines with a modern macOS-native design.
-
-🎥 Smooth playback for massive REMUX files
-🧠 Advanced subtitle handling
-📺 Unified casting support
-🌌 Cinematic fullscreen experience
-🎨 Dynamic modern UI system
-
-CBM Media Player Pro is designed for users who want a powerful local video player experience similar to professional players like VLC, IINA, Infuse, and Elmedia — while maintaining a modern native macOS UI.
-
----
-
-# 🚀 Features
-
-## 🎞️ Premium Playback Engine
-
-* High-performance local video playback
-* Support for large media files (including 50GB–70GB+ REMUX files)
-* FFmpeg-powered decoding pipeline
-* Hardware acceleration support
-* Optimized playback buffering
-* Audio/video sync improvements
-* Resume playback memory
-* Chapter navigation support
-* Advanced playback controls
-* Smart fullscreen playback experience
-
----
-
-## 🌌 Modern Fullscreen Experience
-
-CBM includes a custom immersive fullscreen system inspired by professional media players.
-
-### Features
-
-* Clean fullscreen playback
-* Auto-hiding controls
-* Smooth control overlay animations
-* Black cinematic fullscreen background
-* No macOS titlebar interference during playback
-* Keyboard shortcut support
-* ESC / F fullscreen handling
-* Bottom playback controls remain accessible
-* Professional player-style fullscreen behavior
-
----
-
-## 💬 Subtitle System
-
-Advanced subtitle engine optimized for large files.
-
-### Supported Features
-
-* Embedded subtitle support
-* External subtitle support
-* ASS/SSA subtitle support
-* SRT subtitle support
-* Multi-language subtitle switching
-* Subtitle styling controls
-* Subtitle size adjustment
-* Subtitle position adjustment
-* Subtitle delay adjustment
-* Real-time subtitle loading
-* Large-file subtitle optimization
-* ASS metadata cleanup
-* Passive subtitle packet loading
-* Subtitle sync improvements
-
-### Large File Optimization
-
-CBM includes subtitle optimizations for very large REMUX files:
-
-* Avoids full subtitle track scanning
-* Realtime subtitle packet loading
-* Faster subtitle startup on large MKV files
-* Reduced UI blocking during subtitle initialization
-
----
-
-## 🔊 Audio Features
-
-* Multiple audio track selection
-* Language switching
-* Audio synchronization controls
-* Volume normalization improvements
-* Audio output management
-* Advanced playback controls
-
----
-
-## 📡 Unified Casting Support
-
-CBM Media Player Pro supports multiple streaming and casting technologies.
-
-### Supported
-
-* AirPlay
-* DLNA
-* Chromecast (in progress)
-* Roku (planned)
-
-### Features
-
-* Unified cast experience
-* Native fullscreen playback while casting
-* External device playback controls
-* Device discovery
-* Cast session management
-* Subtitle streaming support
-* Audio track streaming
-
----
-
-## 🍎 AirPlay Streaming
-
-Custom AirPlay streaming system optimized for large local media playback.
-
-### Features
-
-* HLS streaming support
-* Optimized transcoding pipeline
-* Reduced CPU heat generation
-* Low-heat remux pipeline
-* External playback support
-* Apple TV compatibility
-* Subtitle streaming
-* Audio track preservation
-
----
-
-## 📺 DLNA Support
-
-* Device discovery
-* DLNA playback
-* Streaming management
-* Media browsing
-* Remote playback support
-
----
-
-## 📚 Media Library
-
-Modern local media library experience.
-
-### Features
-
-* File browsing
-* Continue watching
-* Favorites support
-* Playlist support
-* Library organization
-* Thumbnail generation
-* Playback history
-* Search support
-* Metadata organization
-
----
-
-## 🎨 Modern UI System
-
-CBM includes a fully custom themed interface system.
-
-### Features
-
-* Dynamic theme engine
-* Multiple premium themes
-* Adaptive foreground colors
-* Glassmorphism-inspired panels
-* Gradient backgrounds
-* Dynamic tint system
-* Transparent overlays
-* Custom popup windows
-* Unified panel styling
-* Modern sidebar system
-* Modern playlist UI
-
----
-
-## 🪟 Help & Utility Panels
-
-Custom themed utility panels:
-
-* About CBM Media Player
-* Keyboard Shortcuts
-* Tips & Tricks
-* What's New
-* Upgrade to Pro
-* Settings
-* Fine Tune panel
-
-### Features
-
-* Unified popup design
-* Custom window styling
-* Dynamic theme integration
-* Centered presentation
-* Modern panel layout
-* Consistent edge styling
-
----
-
-## 🎮 Advanced Playback Controls
-
-### Controls
-
-* Play / Pause
-* Previous / Next
-* Seek controls
-* Fullscreen toggle
-* Volume control
-* Playback speed
-* Subtitle controls
-* Audio controls
-* Playlist controls
-* Chapter navigation
-
-### Keyboard Shortcuts
-
-* Space → Play/Pause
-* F → Fullscreen
-* ESC → Exit Fullscreen
-* Arrow Keys → Seek
-* Additional shortcuts available in-app
-
----
-
-## ⚡ Performance Optimizations
-
-### Large File Handling
-
-* Optimized REMUX playback
-* Reduced UI blocking
-* Smarter buffering
-* Improved subtitle loading
-* Efficient memory usage
-
-### System Optimization
-
-* Lower CPU usage
-* Reduced thermal impact
-* Improved responsiveness
-* Better fullscreen performance
-
----
-
-# 📦 Supported Formats
-
-## Video
-
-* MKV
-* MP4
-* MOV
-* AVI
-* WEBM
-* FLV
-* TS
-* M2TS
-* Y4M
-* More via FFmpeg
-
-## Audio
-
-* AAC
-* MP3
-* FLAC
-* WAV
-* DTS
-* AC3
-* EAC3
-* TrueHD
-* More via FFmpeg
-
-## Subtitles
-
-* SRT
-* ASS
-* SSA
-* VTT
-* Embedded subtitles
-
----
-
-# 🧠 Planned Features
-
-## Upcoming
-
-* Scene preview thumbnails
-* HDR tone mapping
-* AI subtitle sync
-* Dynamic artwork backgrounds
-* Movie metadata scraping
-* Continue watching improvements
-* Chromecast enhancements
-* Roku support
-* Spatial audio support
-* Dialogue boost
-* Smart prebuffering
-* AI scene detection
-
----
-
-# 🏗️ Architecture Philosophy
-
-CBM Media Player Pro is being developed with a modular architecture approach.
-
-### Goals
-
-* Isolated systems
-* Safer feature updates
-* Reduced regressions
-* Better fullscreen management
-* Stable subtitle pipeline
-* Independent casting systems
-* Scalable UI framework
-
----
-
-# 💻 Platform
-
-Currently supported:
-
-* 🍎 macOS 14+
-* ✅ Apple Silicon (M1/M2/M3/M4)
-* ✅ Intel Macs
-
----
-
-# 🛠️ Tech Stack
-
-* Swift
-* SwiftUI
-* AppKit
-* FFmpeg
-* AVFoundation
-* Metal
-
----
-
-# 📥 Installation
-
-## Requirements
-
-* macOS 14+
-* Apple Silicon or Intel Mac
-* Xcode 15+
-
-## Build
-
-```bash
-git clone <repository>
-cd CBM-Media-Player
-open "CBM Media Player.xcodeproj"
+**CBM Media Player** is a native macOS media player built with SwiftUI, Metal, FFmpeg, and VideoToolbox. It is designed for large local movie libraries, high-bitrate 4K/HDR playback, rich subtitle control, resume history, advanced playlist workflows, casting, and a polished full-screen viewing experience.
+
+## ✨ Highlights
+
+- 🎞️ **Wide format playback** with FFmpeg demuxing and custom playback engine
+- ⚡ **Hardware decoding** with VideoToolbox where supported
+- 🖥️ **Metal video renderer** with HDR/EDR output, Lanczos scaling, tone handling, and picture tuning
+- 🧭 **Library mode** with grid/list views, favorites, search, sort, selection, and bulk delete
+- ▶️ **Continue Watching + Resume Hub** for quickly returning to unfinished videos
+- 📊 **Watch statistics** with optional recording and reset controls
+- 🖼️ **Smart thumbnails** using video-frame extraction, large-file fallback extraction, and optional TMDB artwork
+- 🔎 **Seek preview thumbnails** while hovering/scrubbing the timeline
+- 💬 **Advanced subtitles** with embedded tracks, external files, secondary subtitles, sync, style, size, color, and position controls
+- 🌐 **OpenSubtitles search/download** support
+- 🎛️ **Fine Tune panel** for playback speed, sync, picture, audio EQ, and filters
+- 📺 **Cast support** for AirPlay, Chromecast, DLNA, Roku-style targets, and local HTTP streaming workflows
+- 🪟 **Mini Player Pro** and Picture-in-Picture support
+- 📸 **Snapshots and capture settings**
+- 🎨 **Premium themes** with dark/light system-follow option
+- 🧹 **Clear app data/cache** controls for thumbnails, metadata, resume history, bookmarks, statistics, and settings
+- 🔄 **Sparkle updater** integration
+
+## 🧩 Supported Formats
+
+### Video
+
+`mp4`, `m4v`, `mkv`, `avi`, `wmv`, `mov`, `flv`, `webm`, `mpg`, `mpeg`, `m2ts`, `mts`, `ts`, `vob`, `3gp`, `3g2`, `ogv`, `divx`, `asf`, `f4v`, `rmvb`, `rm`, `y4m`, `mxf`, `dv`, `nut`, `m2v`, `h264`, `h265`, `hevc`, `av1`, `ivf`
+
+### Audio
+
+`mp3`, `flac`, `aac`, `ogg`, `wma`, `wav`, `m4a`, `opus`, `aiff`, `ac3`, `dts`, `ape`, `mka`, `wv`, `tta`, `spx`, `caf`, `alac`
+
+### Subtitles
+
+`srt`, `ass`, `ssa`, `vtt`, `sub`, `idx`, `smi`, `lrc`
+
+## 🏛️ Main Features
+
+### 🎥 Playback
+
+- Native macOS player window with custom controls
+- Play/pause, previous/next, forward/back 10 seconds
+- Smooth seek bar with chapter markers and bookmark markers
+- Speed control from slow playback to fast scan
+- Aspect ratio and transform controls
+- Loop modes and A-B repeat
+- Fullscreen playback with custom controls
+- Audio-only playback mode with artwork/visual interface
+
+### 🖼️ Video Quality
+
+- Metal rendering pipeline
+- HDR/EDR display support
+- Lanczos scaling pipeline
+- Hardware acceleration toggle
+- Brightness, contrast, saturation, hue, gamma, and sharpness tuning
+- Denoise, deband, and deinterlace filter controls
+- Large-file thumbnail extraction fallback for high-bitrate media
+
+### 🔊 Audio
+
+- Multi-track audio selection
+- Volume up to 200%
+- Mute/unmute controls
+- Audio delay correction
+- Preferred audio language setting
+- Playback channel options
+- Audio visualizer support
+- Fine Tune audio EQ panel
+
+### 💬 Subtitles
+
+- Embedded subtitle track selection
+- One-click `CC` subtitle enable/disable button
+- External subtitle file loading
+- Secondary subtitle support
+- Subtitle sync controls
+- Subtitle size, color, font, style, and position settings
+- Bitmap subtitle handling for PGS/DVD/DVB-style streams
+- OpenSubtitles search and download
+- Export/burn subtitle workflow support
+
+### 📚 Library
+
+- Drag-and-drop media import
+- Add files and folders
+- Grid and list layouts
+- Favorites
+- Continue Watching
+- Resume Hub overlay
+- Search and sorting
+- Multi-select with select all, deselect all, selected count, and delete selected
+- Quality labels such as 1080p/4K where detected
+- Persistent resume positions and durations
+
+### 🎛️ Pro Tools
+
+- Fine Tune floating panel
+- Picture controls
+- Audio EQ controls
+- Filters
+- Bookmarks
+- Snapshot tools
+- Cast controls
+- Mini Player Pro
+- Picture in Picture
+
+### 📡 Casting
+
+- AirPlay workflow
+- Chromecast discovery/control
+- DLNA-style local device discovery
+- Roku-style casting service hooks
+- Local HTTP server with range request support
+- HLS/transcoding helpers for AirPlay scenarios
+
+### ⚙️ Settings
+
+- General playback behavior
+- Appearance themes
+- Control behavior and mouse gestures
+- Keyboard shortcuts
+- Video tuning defaults
+- Audio defaults and language preferences
+- Subtitle defaults and language preferences
+- Cast configuration
+- Capture/screenshot settings
+- TMDB artwork setup
+- Watch statistics toggle
+- App data/cache reset tools
+
+## 🛠️ Tech Stack
+
+- 🍎 **Swift + SwiftUI** for the macOS app UI
+- 🎞️ **FFmpeg** for demuxing, decoding support, thumbnails, and media inspection
+- 🧠 **VideoToolbox** for hardware decoding
+- 🖥️ **Metal** for rendering and shader-based presentation
+- 🔊 **AVFoundation/CoreAudio** for audio output
+- 📦 **Sparkle** for updates
+- 🛒 **StoreKit 2** for Pro purchase plumbing
+
+## 📁 Project Structure
+
+```text
+CBM Media Player/
+├── CBM Media Player.xcworkspace       # Open this in Xcode
+├── CBM Media Player.xcodeproj
+├── CBM Media Player/                  # Main app source
+│   ├── AppState.swift                 # Shared app state and playback coordination
+│   ├── PlaybackEngine.swift           # Core playback engine
+│   ├── VideoPlayerView.swift          # Main player UI
+│   ├── MediaLibraryView.swift         # Library, Resume Hub, statistics
+│   ├── LibraryThumbnailService.swift  # Library poster/thumbnail generation
+│   ├── SeekPreviewGenerator.swift     # Timeline hover previews
+│   ├── SubtitleEngine.swift           # Text subtitle parser/timing
+│   ├── BitmapSubtitleDecoder.swift    # Bitmap subtitle support
+│   ├── AdvancedPanel.swift            # Fine Tune tools
+│   ├── SettingsConfiguration.swift    # Settings window
+│   ├── TMDBMetadataService.swift      # Optional TMDB artwork integration
+│   └── SupportedMediaFormats.swift    # Accepted file extensions
+├── CBM Receiver/                      # Companion receiver target
+├── Vendor/FFmpeg/                     # Bundled FFmpeg libraries
+├── Tools/                             # FFmpeg universal build/verification scripts
+└── Pods/                              # CocoaPods workspace support
 ```
 
-Build using Xcode.
+## 🚀 Build & Run
 
----
+1. Install **Xcode**.
+2. Open:
 
-# 📸 Screenshots
+   ```text
+   CBM Media Player.xcworkspace
+   ```
 
-*Add screenshots here.*
+3. Select the **CBM Media Player** scheme.
+4. Choose **My Mac** as the run destination.
+5. Build and run with `⌘R`.
 
----
+### Command Line Build
 
-# 🚧 Development Status
+If `xcodebuild` points to Command Line Tools, use Xcode directly:
 
-CBM Media Player Pro is actively under development.
+```bash
+/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild \
+  -workspace "CBM Media Player.xcworkspace" \
+  -scheme "CBM Media Player" \
+  -configuration Debug \
+  -destination 'platform=macOS' \
+  build
+```
 
-Current focus:
+## 🧪 Verification
 
-* Playback stability
-* Fullscreen experience
-* Large-file optimization
-* Subtitle performance
-* Unified casting
-* UI consistency
+Current local verification:
 
----
+```text
+BUILD SUCCEEDED
+```
 
-# 🤝 Contributing
+The latest verified build used the installed Xcode app directly because the active developer directory was set to Command Line Tools.
 
-Contributions, feedback, and feature suggestions are welcome.
+## 🔐 Optional API Setup
 
----
+### TMDB Artwork
 
-# 📄 License
+TMDB is optional. When enabled, CBM can use TMDB artwork for library posters. If no TMDB key is configured, CBM falls back to real video-frame thumbnails.
 
-License information coming soon.
+### OpenSubtitles
 
----
+OpenSubtitles search/download support is available through the subtitle search UI. Embedded and local subtitle files continue to work without online search.
 
-# ⚠️ Disclaimer
+## 🧹 Cache & Data
 
-CBM Media Player Pro is an independent project and is not affiliated with VLC, IINA, Netflix, Apple, or other referenced products/services.
+CBM includes settings to clear app data such as:
+
+- Thumbnail cache
+- TMDB artwork cache
+- Resume history
+- Watch statistics
+- Bookmarks
+- Playback profiles
+- User settings
+
+This is useful when artwork, resume state, tuning, or subtitle preferences need a clean reset.
+
+## 🧰 Developer Notes
+
+- macOS deployment target is currently **14.6** in the Xcode project.
+- App bundle identifier: `com.cbmmedia.player`
+- Receiver bundle identifier: `com.cbmmedia.player.receiver`
+- Use the workspace, not only the project, so package and pod integration resolves correctly.
+- FFmpeg universal helper scripts live in `Tools/`.
+- Sparkle package is resolved through Swift Package Manager.
+
+## 🗺️ Roadmap Ideas
+
+- More metadata providers
+- Smarter episode/season detection
+- More subtitle providers
+- Playlist export presets
+- Deeper HDR calibration tools
+- Media info inspector export
+- App Store packaging and notarized release pipeline
+
+## 🙌 Credits
+
+Built with SwiftUI, Metal, FFmpeg, VideoToolbox, Sparkle, StoreKit, and a lot of movie-night stubbornness.
+
