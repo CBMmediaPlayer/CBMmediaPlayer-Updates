@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="512" height="512" alt="ic_launcher-web" src="https://github.com/user-attachments/assets/58259377-1d27-46d0-857b-b9de84af71f5" />
+</p>
 # 🎬 CBM Media Player
 
 ![macOS](https://img.shields.io/badge/macOS-14.6%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
