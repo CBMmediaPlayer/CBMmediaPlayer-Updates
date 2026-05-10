@@ -11,12 +11,13 @@
 
 **CBM Media Player** is a premium macOS media player for movies, shows, music, and large local media libraries. It is built for smooth playback, beautiful fullscreen viewing, powerful subtitles, smart library management, and advanced video/audio controls.
 
-<img width="1672" height="941" alt="CBM" src="https://github.com/user-attachments/assets/ae5947c1-d8b4-462e-abaa-08289b2b3dc0" />
-<img width="1672" height="941" alt="Smart Library" src="https://github.com/user-attachments/assets/c2e568cb-45fd-4247-b215-679f8ad5d02d" />
-<img width="1672" height="941" alt="Resume   Playlist" src="https://github.com/user-attachments/assets/94190ddc-3580-439f-ae10-c8fa3ad82cfc" />
-<img width="1672" height="941" alt="Playback   Control" src="https://github.com/user-attachments/assets/43429e9f-fd03-437f-beeb-e26180ee643f" />
-<img width="1672" height="941" alt="Tools   Casting" src="https://github.com/user-attachments/assets/5a270cab-3739-4ca3-aa78-4661975dfa7c" />
-<img width="1672" height="941" alt="Appearance   Fine Tune" src="https://github.com/user-attachments/assets/9eb2e602-12f7-4110-9cbf-3caae0105b64" />
+## <img width="1672" height="941" alt="CBM Media Player" src="https://github.com/user-attachments/assets/004809aa-b129-4f20-aa75-f729100b092b" />
+## <img width="1672" height="941" alt="Smart Library" src="https://github.com/user-attachments/assets/e65db423-e761-4185-9366-1984bec0c3fe" />
+## <img width="1672" height="941" alt="Appearance Fine Tune" src="https://github.com/user-attachments/assets/a7e704b6-db91-4378-b413-a9ad3c99690f" />
+## <img width="1672" height="941" alt="Resume Playlist" src="https://github.com/user-attachments/assets/e6f31234-af3e-419f-98e7-8e3c2a212e59" />
+## <img width="1672" height="941" alt="Playback Control" src="https://github.com/user-attachments/assets/924a0bb8-838c-44ab-a6ae-6915adfbec02" />
+## <img width="1672" height="941" alt="Tools Casting" src="https://github.com/user-attachments/assets/0088f5a5-c814-4251-907a-7a99a02d0585" />
+
 
 ## ✨ Why CBM?
 
