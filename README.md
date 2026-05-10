@@ -4,10 +4,14 @@
 
 # 🎬 CBM Media Player
 
-![macOS](https://img.shields.io/badge/macOS-14.6%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
-![4K HDR](https://img.shields.io/badge/Playback-4K%20+%208K-f6c431?style=for-the-badge)
-![Subtitles](https://img.shields.io/badge/Advanced-Subtitles-2f80ed?style=for-the-badge)
-![Library](https://img.shields.io/badge/Smart-Library-20c997?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/macOS-14.6%2B-success?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Playback-8K%20Ready-f6c431?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/Subtitles-Advanced-red?style=for-the-badge&logo=sqlite&logoColor=black" />
+<img src="https://img.shields.io/badge/Library-Smart-blue?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-Powered-orange?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
 
 **CBM Media Player** is a premium macOS media player for movies, shows, music, and large local media libraries. It is built for smooth playback, beautiful fullscreen viewing, powerful subtitles, smart library management, and advanced video/audio controls.
 
