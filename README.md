@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="512" height="512" alt="ic_launcher-web" src="https://github.com/user-attachments/assets/58259377-1d27-46d0-857b-b9de84af71f5" />
+  <img alt="ic_launcher-web" src="https://github.com/user-attachments/assets/58259377-1d27-46d0-857b-b9de84af71f5" />
 </p>
+
 # 🎬 CBM Media Player
 
 ![macOS](https://img.shields.io/badge/macOS-14.6%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -9,6 +10,13 @@
 ![Library](https://img.shields.io/badge/Smart-Library-20c997?style=for-the-badge)
 
 **CBM Media Player** is a premium macOS media player for movies, shows, music, and large local media libraries. It is built for smooth playback, beautiful fullscreen viewing, powerful subtitles, smart library management, and advanced video/audio controls.
+
+<img width="1672" height="941" alt="CBM" src="https://github.com/user-attachments/assets/ae5947c1-d8b4-462e-abaa-08289b2b3dc0" />
+<img width="1672" height="941" alt="Smart Library" src="https://github.com/user-attachments/assets/c2e568cb-45fd-4247-b215-679f8ad5d02d" />
+<img width="1672" height="941" alt="Resume   Playlist" src="https://github.com/user-attachments/assets/94190ddc-3580-439f-ae10-c8fa3ad82cfc" />
+<img width="1672" height="941" alt="Playback   Control" src="https://github.com/user-attachments/assets/43429e9f-fd03-437f-beeb-e26180ee643f" />
+<img width="1672" height="941" alt="Tools   Casting" src="https://github.com/user-attachments/assets/5a270cab-3739-4ca3-aa78-4661975dfa7c" />
+<img width="1672" height="941" alt="Appearance   Fine Tune" src="https://github.com/user-attachments/assets/9eb2e602-12f7-4110-9cbf-3caae0105b64" />
 
 ## ✨ Why CBM?
 
