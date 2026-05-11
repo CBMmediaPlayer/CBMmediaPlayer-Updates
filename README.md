@@ -15,6 +15,8 @@
 
 **CBM Media Player** is a premium macOS media player for movies, shows, music, and large local media libraries. It is built for smooth playback, beautiful fullscreen viewing, powerful subtitles, smart library management, and advanced video/audio controls.
 
+## 🖼️ App Feature Screenshots
+
 ## <img width="1672" height="941" alt="CBM-New-01" src="https://github.com/user-attachments/assets/60f98548-4627-4dad-8752-cf967163812c" />
 ## <img width="1672" height="941" alt="CBM-New-02" src="https://github.com/user-attachments/assets/9ea2b74c-b3f4-4f32-bffb-794147e7bf6e" />
 ## <img width="1672" height="941" alt="Appearance Fine Tune" src="https://github.com/user-attachments/assets/a7e704b6-db91-4378-b413-a9ad3c99690f" />
